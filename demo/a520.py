@@ -1,1 +1,2 @@
-print('a520 feature')
+def is_palindrome(s):
+	return s == s[::-1]
